@@ -1,6 +1,8 @@
 # Project Design
 
 ## Figma Design
+This font used in the project design is **Inter** font.
+
 
 You can view the full Figma design by clicking the link below:
 
