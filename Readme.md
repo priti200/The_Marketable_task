@@ -8,4 +8,12 @@ You can view the full Figma design by clicking the link below:
 
 Here’s a screenshot of the design:
 
-![Figma Design Screenshot](./path/to/your/figma-design-screenshot.png)
+![Landing Page](assets/marketable_landing_page.jpg)
+![Course Page](assets/Courses.jpg)
+![Course Details Page](assets/Course_Details.jpg)
+![Login Page](assets/Login_page.jpg)
+![Contact Page](assets/Contact_us.jpg)
+![Contact Page](assets/ColorGuide.png)
+
+
+
