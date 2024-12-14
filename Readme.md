@@ -74,4 +74,7 @@ To explore the complete design, including all pages and interactions, click the 
 
 Feel free to explore the layout, interactions, and details for a better understanding of the design vision!
 
+Landing page code is available at this link:
+[**View the Code**](https://github.com/priti200/marketable)
+
 ## 👩‍💻 Designed by Priti
